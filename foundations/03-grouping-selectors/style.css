@@ -1,0 +1,15 @@
+.bbq,
+.bear {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.bbq {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.bear {
+    background-color: yellow;
+}
